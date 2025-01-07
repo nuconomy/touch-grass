@@ -2,6 +2,10 @@
 
 This is a simple memecoin to experiment with deploying a token to Lens via Third Web.
 
+CA: `0xE5D45Cd408fC63e690De1d02ACD50fC842C55282`
+
+> "It's a pudgy world and we're all living in it."
+
 ## Third Web Notes
 
 Interact with this contract from your app
